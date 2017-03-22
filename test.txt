@@ -1,6 +1,7 @@
-git add (. => 全部)
+git add (. => 全部) -> commit (-m) -> push
 git clone 
 git commit -m 檔名
 git push
 git status
 git config
+git rm -> commit (-a) -> push
