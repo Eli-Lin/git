@@ -1,0 +1,6 @@
+git add (. => ¥ş³¡)
+git clone 
+git commit -m ÀÉ¦W
+git push
+git status
+git config
